@@ -28,9 +28,11 @@ Schreibe Unit Tests mit Mocha und Chai, um sicherzustellen, dass die Funktion ko
 
 ### Setup
 
-* `git clone https://github.com/ShumilaMalik/UE086-Unit_Testing.git`
-* `npm install`
-* `npm test`
+```bash
+git clone https://github.com/ShumilaMalik/UE086-Unit_Testing.git
+npm install
+npm test
+```
 
 ### Hinweis
 
